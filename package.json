@@ -1,0 +1,20 @@
+{
+  "name": "plant-backend",
+  "version": "0.1.0",
+  "description": "",
+  "main": "plant-backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^5.8.23",
+    "bluebird": "^2.10.2",
+    "dotenv": "^1.2.0",
+    "highland": "^2.5.1",
+    "mongodb": "^2.0.46",
+    "ramda": "^0.18.0",
+    "restify": "^4.0.3"
+  }
+}
